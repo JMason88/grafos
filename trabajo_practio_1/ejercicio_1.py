@@ -1,5 +1,4 @@
 import numpy as np
-from collections import defaultdict
 
 # Construir una función que reciba un grafo y en función del grafo indique como hacer un
 # recorrido euleriano en caso de que sea conexo y que devuelva una lista con el orden de los
